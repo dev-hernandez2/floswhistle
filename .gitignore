@@ -59,6 +59,12 @@ typings/
 
 package-lock.json
 yarn.lock
+<<<<<<< HEAD
 app/public/styles/*
 app/public/fonts/*
 app/src/components/style-guide/*
+=======
+public/styles/*
+public/fonts/*
+build/*
+>>>>>>> upstream/master
