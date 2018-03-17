@@ -61,3 +61,4 @@ package-lock.json
 yarn.lock
 app/public/styles/*
 app/public/fonts/*
+app/src/components/style-guide/*
